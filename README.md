@@ -2,7 +2,7 @@
 
 A safe keyboard playground for toddlers (ages 1–3). Hand your little one a laptop: every key they press shows a big picture, says something out loud, and plays music.
 
-## [▶ Play Tiny Keys]([https://kaskavalci.github.io/Tiny-keys/](https://kaskavalci.github.io/Tiny-keys/)
+## [▶ Play Tiny Keys](https://kaskavalci.github.io/Tiny-keys/)
 
 Free, no sign-up, no ads. Works best in Chrome or Edge on a laptop. Click **Start and lock screen**, then hand it over.
 
