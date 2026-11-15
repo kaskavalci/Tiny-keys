@@ -44,9 +44,9 @@ Tiny Keys turns that urge to bang on keys into something good:
 
 ### Languages & the voice
 
-Tiny Keys supports **English** and **Dutch (Nederlands)**. It automatically detects your browser language (or you can switch anytime on the start screen or in the grown-up controls, or link with `?lang=nl`).
+Tiny Keys supports **English**, **Dutch (Nederlands)**, and **Turkish (Türkçe)**. It automatically detects your browser language (or you can switch anytime on the start screen or in the grown-up controls, or link with `?lang=nl` / `?lang=tr`).
 
-Every spoken line is pre-recorded — English with the open-source [Kokoro](https://github.com/hexgrad/kokoro) neural voice (Apache 2.0), and Dutch with [Piper](https://github.com/rhasspy/piper) (`nl_NL-pim-medium`). Letter names are set by pronunciation, so "A" is always said "ay" (or "Aa" in Dutch). All clips are packed into audio tracks embedded inside `play.html`, so the whole game stays self-contained and works offline. Clips play louder than the music, and the music dips while the voice talks, so every word comes through clearly. If a clip can't load, the laptop's built-in voice reads the line instead; grown-ups can also switch to "Laptop voice" in the controls.
+Every spoken line is pre-recorded — English with the open-source [Kokoro](https://github.com/hexgrad/kokoro) neural voice (Apache 2.0), Dutch with [Piper](https://github.com/rhasspy/piper) (`nl_NL-pim-medium`), and Turkish with Piper (`tr_TR-dfki-medium`). Letter names are set by pronunciation, so "A" is always said "ay" (or "Aa" in Dutch, "A" in Turkish). All clips are packed into audio tracks embedded inside `play.html`, so the whole game stays self-contained and works offline. Clips play louder than the music, and the music dips while the voice talks, so every word comes through clearly. If a clip can't load, the laptop's built-in voice reads the line instead; grown-ups can also switch to "Laptop voice" in the controls.
 
 Every key also plays a note on the chosen instrument, so mashing sounds musical (it's tuned to the pentatonic scale, Raga Mohanam, so no combination ever sounds wrong).
 

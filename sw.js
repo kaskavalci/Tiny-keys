@@ -1,7 +1,7 @@
 // Keeps Tiny Keys working offline after the first visit.
 // The game page is fetched fresh whenever there's internet (so updates show right away)
 // and only falls back to the saved copy when offline.
-const CACHE = 'tiny-keys-v8';
+const CACHE = 'tiny-keys-v9';
 const FILES = ['./', './index.html', './play.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {
